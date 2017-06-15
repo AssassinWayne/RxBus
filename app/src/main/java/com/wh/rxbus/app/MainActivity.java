@@ -1,4 +1,4 @@
-package com.wh.rxbus;
+package com.wh.rxbus.app;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

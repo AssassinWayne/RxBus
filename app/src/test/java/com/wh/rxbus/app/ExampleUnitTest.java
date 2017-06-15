@@ -1,4 +1,4 @@
-package com.wh.rxbus;
+package com.wh.app;
 
 import org.junit.Test;
 
